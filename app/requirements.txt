@@ -1,0 +1,2 @@
+mysql-connector-python
+flask  # or any other dependencies your Python application needs
